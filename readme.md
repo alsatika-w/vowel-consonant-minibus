@@ -45,7 +45,7 @@ console.log(`Consonant Characters: ${consonantFound}`)
 
 The output will be approximately like this
 
-![output](nawadata/Screenshot from 2024-06-23 15-27-17.png)
+![output](1.png)
 
 And this is a program code of psbb.js
 
@@ -96,5 +96,5 @@ To run the program, execute the command `node psbb.js`
 
 Here is the output
 
-![output](nawadata/Screenshot from 2024-06-23 15-30-18.png)
+![output](2.png)
 
